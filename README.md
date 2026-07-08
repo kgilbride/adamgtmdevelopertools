@@ -33,6 +33,11 @@ broad infrastructure). Each tool also carries a few signals from the source data
 - **Click a tool** to see its details: description, the source link, its signals, and the categories it links to.
 - **Search** by name or tag, **filter** by type, and switch between graph **layouts** in the sidebar.
 
+## Why this matters
+- Knowledge graphs treat the connections between things as first-class data, so you can trace multi-step relationships, unify information that usually lives in separate systems, and spot structural patterns — hubs, clusters, bottlenecks — that a table hides.
+- They also pair well with AI: grounding an agent's answers in explicit, traceable facts and relationships reduces hallucination.
+- They're not ideal for precise numerical roll-ups or very large node counts, but for understanding how a landscape connects, they reveal what flat data can't.
+
 ## License
 
 Code (the viewer) is released under the [MIT License](LICENSE). The underlying data
