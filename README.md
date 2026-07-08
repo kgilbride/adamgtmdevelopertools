@@ -5,7 +5,7 @@ agents, agent builders, data/enrichment providers, and headless SaaS that a
 software agent can find, access, and call to do GTM work.
 
 The whole thing is a single self-contained `index.html` — open it in any browser,
-no install. **[View the live graph »](https://YOUR-USERNAME.github.io/YOUR-REPO/)**
+no install. **[View the live graph »](https://kgilbride.com/adamgtmdevelopertools/)**
 
 ## Source
 
